@@ -1,0 +1,213 @@
+Liu		Login: yliu220        			Name: Yuxuan Liu
+UI 0:ExponentialFib
+UI 1:LinearFib
+UI 2:LogFib
+UI 3:ConstantFib
+UI 4:MysteryFib
+UI 5:Exit
+UI command 0
+doExperiments prog03.ExponentialFib@2aaf7cc2
+UI 	Enter n
+UI 	? 
+UI is not an integer.
+UI 	Enter n
+UI 	? abc
+UI abc is not an integer.
+UI 	Enter n
+UI 	? 10
+UI Fib is 55.0 , running time is 2.475716116231968E-4, percentage error is -100.0%
+UI 	Enter n
+UI 	? 10
+UI estimate time is 2.475716116231968E-4
+UI Fib is 55.0 , running time is 3.290451071159436E-4, percentage error is -24.760585625130872%
+UI 	Enter n
+UI 	? 10
+UI estimate time is 3.290451071159436E-4
+UI Fib is 55.0 , running time is 1.2533497096918267E-5, percentage error is 2525.3255940582544%
+UI 	Enter n
+UI 	? 20
+UI estimate time is 0.0015415182378343756
+UI Fib is 6765.0 , running time is 0.010532411871852566, percentage error is -85.36405282484233%
+UI 	Enter n
+UI 	? 30
+UI estimate time is 1.2954010252123573
+UI Fib is 832040.0 , running time is 19.449325358851674, percentage error is -93.33960946556535%
+UI 	Enter n
+UI 	? 40
+UI estimate time is 2392.108884089206
+UI Fib is 1.02334155E8 , running time is 240375.799, percentage error is -99.0048462057991%
+UI 	Enter n
+UI 	? null
+UI 0:ExponentialFib
+UI 1:LinearFib
+UI 2:LogFib
+UI 3:ConstantFib
+UI 4:MysteryFib
+UI 5:Exit
+UI command 1
+doExperiments prog03.LinearFib@3f3afe78
+UI 	Enter n
+UI 	? 100
+UI Fib is 5.731478440138172E20 , running time is 4.19418721096396E-6, percentage error is -100.0%
+UI 	Enter n
+UI 	? 100
+UI estimate time is 4.19418721096396E-6
+UI Fib is 5.731478440138172E20 , running time is 2.575661203479084E-6, percentage error is 62.83924319311274%
+UI 	Enter n
+UI 	? 100
+UI estimate time is 2.575661203479084E-6
+UI Fib is 5.731478440138172E20 , running time is 2.9290095182539323E-6, percentage error is -12.06374757653534%
+UI 	Enter n
+UI 	? 200
+UI estimate time is 5.8580190365078645E-6
+UI Fib is 4.53973694165308E41 , running time is 9.233668341708543E-6, percentage error is -36.55805233931619%
+UI 	Enter n
+UI 	? 400
+UI estimate time is 1.8467336683417085E-5
+UI Fib is 2.848122981084893E83 , running time is 3.923723001821386E-5, percentage error is -52.934147811034116%
+UI 	Enter n
+UI 	? 800
+UI estimate time is 7.847446003642772E-5
+UI Fib is 1.1210238130165696E167 , running time is 1.3045992568349042E-4, percentage error is -39.84784245024402%
+UI 	Enter n
+UI 	? null
+UI 0:ExponentialFib
+UI 1:LinearFib
+UI 2:LogFib
+UI 3:ConstantFib
+UI 4:MysteryFib
+UI 5:Exit
+UI command 2
+doExperiments prog03.LogFib@36d64342
+UI 	Enter n
+UI 	? 100
+UI Fib is 3.5422484817926226E20 , running time is 1.3236010535963471E-5, percentage error is -100.0%
+UI 	Enter n
+UI 	? 100
+UI estimate time is 1.3236010535963471E-5
+UI Fib is 3.5422484817926226E20 , running time is 3.5724988734878327E-6, percentage error is 270.49726269167854%
+UI 	Enter n
+UI 	? 100
+UI estimate time is 3.5724988734878327E-6
+UI Fib is 3.5422484817926226E20 , running time is 3.0318877661275683E-6, percentage error is 17.830841675605676%
+UI 	Enter n
+UI 	? 1000
+UI estimate time is 4.547831649191351E-6
+UI Fib is 4.3466557686937765E208 , running time is 1.2217676860394066E-5, percentage error is -62.77662520332308%
+UI 	Enter n
+UI 	? 10000
+UI estimate time is 1.6290235813858757E-5
+UI Fib is Infinity , running time is 8.938820368787398E-6, percentage error is 82.24144956241716%
+UI 	Enter n
+UI 	? 100000
+UI estimate time is 1.1173525460984247E-5
+UI Fib is Infinity , running time is 2.2789730331051282E-5, percentage error is -50.97122564122585%
+UI 	Enter n
+UI 	? null
+UI 0:ExponentialFib
+UI 1:LinearFib
+UI 2:LogFib
+UI 3:ConstantFib
+UI 4:MysteryFib
+UI 5:Exit
+UI command 3
+doExperiments prog03.ConstantFib@511baa65
+UI 	Enter n
+UI 	? 100
+UI Fib is 3.542248481792631E20 , running time is 1.8461538461538462E-6, percentage error is -100.0%
+UI 	Enter n
+UI 	? 100
+UI estimate time is 1.846153846153846E-6
+UI Fib is 3.542248481792631E20 , running time is 2.0930811951493626E-7, percentage error is 782.0268656716418%
+UI 	Enter n
+UI 	? 100
+UI estimate time is 2.0930811951493623E-7
+UI Fib is 3.542248481792631E20 , running time is 2.0460809821188716E-7, percentage error is 2.297084692210884%
+UI 	Enter n
+UI 	? 1000
+UI estimate time is 2.0460809821188714E-6
+UI Fib is 4.3466557686938915E208 , running time is 3.132001327968563E-7, percentage error is 553.2822843488299%
+UI 	Enter n
+UI 	? 10000
+UI estimate time is 3.1320013279685628E-6
+UI Fib is Infinity , running time is 2.3454406004327938E-7, percentage error is 1235.3573428338489%
+UI 	Enter n
+UI 	? 100000
+UI estimate time is 2.345440600432794E-6
+UI Fib is Infinity , running time is 2.2562000767108025E-7, percentage error is 939.5534618774105%
+UI 	Enter n
+UI 	? null
+UI 0:ExponentialFib
+UI 1:LinearFib
+UI 2:LogFib
+UI 3:ConstantFib
+UI 4:MysteryFib
+UI 5:Exit
+UI command 4
+doExperiments prog03.MysteryFib@30c7da1e
+UI 	Enter n
+UI 	? 100
+UI Fib is 3.54224848179262E20 , running time is 0.0012630486358244364, percentage error is -100.0%
+UI 	Enter n
+UI 	? 100
+UI estimate time is 0.0012630486358244364
+UI Fib is 3.54224848179262E20 , running time is 8.351147071554623E-4, percentage error is 51.242532912225585%
+UI 	Enter n
+UI 	? 100
+UI estimate time is 8.351147071554623E-4
+UI Fib is 3.54224848179262E20 , running time is 6.672579214706119E-4, percentage error is 25.156207260140157%
+UI 	Enter n
+UI 	? 200
+UI estimate time is 5.2851554225470861E17
+UI Fib is 2.8057117299251016E41 , running time is 7.957769181173436E-4, percentage error is 6.641503796127632E22%
+UI 	Enter n
+UI 	? 500
+UI estimate time is 3.9544256372572246E59
+UI Fib is 1.394232245616977E104 , running time is 0.004354449353108236, percentage error is 9.081344887923724E63%
+UI 	Enter n
+UI 	? 1000
+UI estimate time is 1.3575422932351728E102
+UI Fib is 4.346655768693743E208 , running time is 0.018662735462735464, percentage error is 7.274079922237685E105%
+UI 	Enter n
+UI 	? null
+UI 0:ExponentialFib
+UI 1:LinearFib
+UI 2:LogFib
+UI 3:ConstantFib
+UI 4:MysteryFib
+UI 5:Exit
+UI command 0
+doExperiments prog03.ExponentialFib@5b464ce8
+UI 	Enter n
+UI 	? 10
+UI Fib is 55.0 , running time is 1.8065836020856124E-4, percentage error is -100.0%
+UI 	Enter n
+UI 	? 20
+UI estimate time is 0.022219509441401136
+UI Fib is 6765.0 , running time is 2.32252688172043, percentage error is -99.0433045311001%
+UI 	Enter n
+UI 	? 30
+UI estimate time is 285.6519228709877
+UI Fib is 832040.0 , running time is 40.19939047619047, percentage error is 610.5876966969817%
+UI 	Enter n
+UI 	? 40
+UI estimate time is 4944.198182653253
+UI Fib is 1.02334155E8 , running time is 496752.903, percentage error is -99.00469667055913%
+UI 	Enter n
+UI 	? 100
+ERROR (-5 points):  ExponentialFib called with n=100.
+ERROR (-5 points):  ExponentialFib called with n=100.
+UI estimate time is 1.71948673097249869E18
+UI Fib is 1.02334155E8 , running time is 499573.033, percentage error is 3.4419126281622156E14%
+UI 	Enter n
+UI 	? null
+UI 0:ExponentialFib
+UI 1:LinearFib
+UI 2:LogFib
+UI 3:ConstantFib
+UI 4:MysteryFib
+UI 5:Exit
+UI command 5
+SCORE:  70/75
+Done:  EFGHIJK
+COMMENT: Partial Credit given for "percentage error is -100.0%"
