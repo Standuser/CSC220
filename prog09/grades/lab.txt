@@ -1,0 +1,8 @@
+Liu		Login: yliu220        			Name: Yuxuan Liu
+Testing isSorted, sameContents, and insertionSort from LAB work
+prog09.InsertionSort@77f03bb1 on array of length 10000
+156722.654 microseconds
+prog09.InsertionSort@77f03bb1 on array of length 100000
+1.5816338051E7 microseconds
+SCORE: 40/40
+

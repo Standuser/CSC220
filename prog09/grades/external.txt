@@ -1,0 +1,5 @@
+Liu		Login: yliu220        			Name: Yuxuan Liu
+javac prog09/ExternalSort.java
+java prog09/ExternalSort
+SCORE: 15/15
+

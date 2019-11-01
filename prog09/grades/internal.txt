@@ -1,0 +1,20 @@
+Liu		Login: yliu220        			Name: Yuxuan Liu
+Testing heapSort, quickSort, and mergeSort
+prog09.HeapSort@77f03bb1 on array of length 1000000
+1068810.785 microseconds
+prog09.HeapSort@77f03bb1 on array of length 10000000
+2.7161036994E7 microseconds
+2.178204896388653 ratio/oratio
+out of range:  -10
+prog09.QuickSort@2aafb23c on array of length 1000000
+478283.82 microseconds
+prog09.QuickSort@2aafb23c on array of length 10000000
+6221076.991 microseconds
+1.1148927652562926 ratio/oratio
+prog09.MergeSort@3ab39c39 on array of length 1000000
+669721.253 microseconds
+prog09.MergeSort@3ab39c39 on array of length 10000000
+7521834.832 microseconds
+0.962682156192099 ratio/oratio
+SCORE: 45/45
+

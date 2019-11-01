@@ -1,0 +1,12 @@
+Note: ./prog07/Heap.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+format is test: CORRECT ANSWER ? YOUR ANSWER
+remove(Nick): false ? true
+peek(): Victor ? Nick
+poll(): Victor ? Nick
+poll(): Nick ? Joe
+poll(): Negin ? Aaron
+poll(): Joe ? null
+poll(): Irina ? null
+poll(): Aaron ? null
+SCORE 15/25

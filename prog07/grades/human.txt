@@ -1,0 +1,44 @@
+Enter file name
+UI words
+Enter start word: 
+UI fail
+Enter target word: 
+UI pass
+0:Human plays. 1:Computer plays.
+UI 0
+The starting word is fail while the Target is...pass
+Type in a word plz
+UI pall
+Invalid word, try a new one plz 
+The starting word is fail while the Target is...pass
+Type in a word plz
+UI fail
+Good, a valid word
+The starting word is fail while the Target is...pass
+Type in a word plz
+UI fais
+This word is not found
+Let's try a new word
+The starting word is fail while the Target is...pass
+Type in a word plz
+UI fail
+Good, a valid word
+The starting word is fail while the Target is...pass
+Type in a word plz
+UI fall
+Good, a valid word
+The starting word is fall while the Target is...pass
+Type in a word plz
+UI pall
+Good, a valid word
+The starting word is pall while the Target is...pass
+Type in a word plz
+UI pals
+Good, a valid word
+The starting word is pals while the Target is...pass
+Type in a word plz
+UI pass
+Good, a valid word
+You Win the Game!
+Thank You For Playing!
+SCORE 25/25

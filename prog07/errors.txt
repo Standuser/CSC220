@@ -1,0 +1,8 @@
+Exception in thread "main" java.lang.Error: Unresolved compilation problems: 
+	The method offer(Integer) in the type Queue<Integer> is not applicable for the arguments (WordStep.Node<String>)
+	The method get(int) is undefined for the type WordStep
+	The method offByOne(String, String) in the type WordStep is not applicable for the arguments (Integer, String)
+	Type mismatch: cannot convert from WordStep.Node<String> to int
+
+	at prog07.WordStep.solve(WordStep.java:226)
+	at prog07.WordStep.main(WordStep.java:132)
