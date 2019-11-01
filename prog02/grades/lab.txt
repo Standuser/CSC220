@@ -1,0 +1,110 @@
+Liu		Login: yliu220        			Name: Yuxuan Liu
+Cases 0-3 should each have exactly one call to pd.
+-3 if it has an extra call.
+-10 if it has no call.
+
+		pd.loadData(fn);
+			case -1:
+			case 0:
+					if (pd.lookupEntry(name) != null) {
+						oldNumber = pd.lookupEntry(name);
+						pd.addOrChangeEntry(name, number);
+						pd.addOrChangeEntry(name, number);
+			case 1:
+					number = pd.lookupEntry(name);
+			case 2:
+					number = pd.removeEntry(name);
+			case 3:
+				pd.save();
+			case 4:
+
+	case 1:
+1
+	Enter name
+	? Fred
+Fred is not listed
+	case 1:
+1
+	Enter name
+	? Victor
+Victor vjm@cs.miami.edu
+	case 2:
+2
+	Enter name
+	? Victor
+vjm@cs.miami.edu
+Removed entry withr Victor and number vjm@cs.miami.edu
+	case 2:
+2
+	Enter name
+	? Victor
+null
+Victor is not listed
+	case 0:
+0
+	Enter name
+	? Victor
+	Enter number
+	? 
+no blank number pleasse 
+	case 0:
+0
+	Enter name
+	? Fred
+	Enter number
+	? fred
+Fred has been added with the numberfred
+	case 0:
+0
+	Enter name
+	? Fred
+	Enter number
+	? 777
+the number for Fredhas been changed fromfredto 777
+	case 0:
+0
+	Enter name
+	? Victor
+	Enter number
+	? null
+no blank number pleasse 
+	case 1:
+1
+	Enter name
+	? null
+no blank name pleasse 
+	case 1:
+1
+	Enter name
+	? 
+ is not listed
+	case 2:
+2
+	Enter name
+	? null
+no blank name pleasse 
+	case 2:
+2
+	Enter name
+	? 
+null
+ is not listed
+	case 0:
+0
+	Enter name
+	? null
+no blank name pleasse 
+	case 0:
+0
+	Enter name
+	? 
+no blank name pleasse 
+	case 3:
+3
+	case 4:
+4
+-3 points if your program does not have the old and new number for Fred.
+-10 points if your program crashes when the user clicks CANCEL.
+
+SCORE:  31/40
+
