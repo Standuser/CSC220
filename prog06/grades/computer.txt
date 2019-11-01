@@ -1,0 +1,20 @@
+Note: prog06/WordStep.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+ what is the name of the file 
+UI words
+ File Load Success
+
+begin
+UI fail
+target
+UI pass
+0:Human plays. 1:Computer plays.
+UI 1
+fail 
+fall 
+pall 
+pals 
+pass
+
+
+SCORE 25/25

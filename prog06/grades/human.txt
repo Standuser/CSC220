@@ -1,0 +1,50 @@
+Note: prog06/WordStep.java uses unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+ what is the name of the file 
+UI words
+ File Load Success
+begin
+UI fail
+target
+UI pass
+0:Human plays. 1:Computer plays.
+UI 0
+ current word : fail
+ target word : pass
+ what is your next word ?
+UI pall
+ current word is more than 1 different 
+ current word : fail
+ target word : pass
+ what is your next word ?
+UI fail
+ current word is more than 1 different 
+ current word : fail
+ target word : pass
+ what is your next word ?
+UI fais
+fais is not word
+ current word is more than 1 different 
+ current word : fail
+ target word : pass
+ what is your next word ?
+UI fail
+ current word is more than 1 different 
+ current word : fail
+ target word : pass
+ what is your next word ?
+UI fall
+ current word : fall
+ target word : pass
+ what is your next word ?
+UI pall
+ current word : pall
+ target word : pass
+ what is your next word ?
+UI pals
+ current word : pals
+ target word : pass
+ what is your next word ?
+UI pass
+ you win 
+SCORE 30/30
